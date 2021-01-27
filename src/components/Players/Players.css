@@ -1,0 +1,7 @@
+.player-style{
+    font-family: Roboto;
+    display: flex;
+}
+.player-description{
+    width: 80%;
+}

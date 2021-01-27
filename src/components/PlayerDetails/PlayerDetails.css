@@ -1,0 +1,59 @@
+.player-details-style{
+    display: flex;
+    background-color: rgb(0, 204, 255);
+    border: 1px solid lightsalmon;
+    box-shadow: 10px 10px 40px gray;
+    margin: 20px;
+    margin-left: 100px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center; 
+}
+.left-side-style{
+    width: 23%;
+    padding: 10px;
+    border-right: 1px solid red;
+}
+.middle-side-style{
+    width: 22%;
+    border-right: 1px solid red;
+    /* text-align: center; */
+}
+.middle-side-style img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+.right-side-style{
+    width: 35%;
+    /* padding-left: 20px; */
+    border-right: 1px solid red;
+}
+.right-side-style h3{
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid red;
+}
+.button-side-style{
+    width: 20%;
+}
+.button-side-style Button{
+    margin-top: 15px;
+}
+.batting-style{
+    border-right: 1px solid rgb(255, 0, 157);
+    padding: 10px;
+    width: 200px;
+}
+.bowling-style{
+    padding : 10px;
+    width : 250px;
+}
+.player-stats{
+    display: flex;
+    /* padding: 10px; */
+}
+.firstButton{
+    margin-top: 30px !important;
+}

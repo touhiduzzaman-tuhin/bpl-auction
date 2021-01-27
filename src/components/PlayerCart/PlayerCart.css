@@ -1,0 +1,28 @@
+.cart-style{
+    text-align: center;
+}
+.cart-style hr{
+    border: 1px solid red;
+}
+.cart-image-style{
+    display: flex;
+    border: 1px solid salmon;
+    background-color: lightsalmon;
+    border-radius: 20px;
+    text-align: center;
+    width: 250px;
+    margin-bottom: 10px;
+}
+.cart-image-style p{
+    /* text-align: center;
+     */
+     color: purple;
+     font-size: 17px;
+     margin-top: 10px;
+     padding-left: 3px;
+}
+.cart-image-style img{
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
